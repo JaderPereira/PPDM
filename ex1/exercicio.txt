@@ -1,0 +1,1 @@
+Exercicio 1 de PPDM, esse ex vai ser sobre fazer a formula do juros simples em uma aplicação com express, utilizei webpack para estilizar o site e aprimorar meus conhecimentos, todas as dependencias estão no package.json, para rodar o projeto basta dar "npm i" no terminal.

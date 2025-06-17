@@ -1,0 +1,25 @@
+<%- include('includes/head') %>
+
+
+    <h1 class="mainTittle">JUROS 3000</h1>
+    <H2 class="subTittle">seu calculador de juros favorito!</H2>
+
+    <form action="/resultado" method="get">
+        <div class="campo">
+            <label for="capital">Capital inicial</label>
+            <input type="number" name="capital" id="capital">
+        </div>
+        <div class="campo">
+            <label for="taxa">Porcentagem da taxa</label>
+            <input type="number" name="taxa" id="taxa">
+        </div>
+        <div class="campo">
+            <label for="tempo">Tempo(meses)</label>
+            <input type="number" name="tempo" id="tempo">
+        </div>
+        <div class="campo campoSubmit">
+            <input type="submit" value="Calcular juros">
+        </div>
+    </form>
+
+<%- include('includes/foot') %>
