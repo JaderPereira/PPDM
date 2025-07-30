@@ -1,0 +1,23 @@
+{
+  "1@gmail.com": {
+    "email": "1@gmail.com",
+    "nome": "jader",
+    "senha": "4",
+    "apelido": "4",
+    "idade": "5"
+  },
+  "15@gmail.com": {
+    "email": "15@gmail.com",
+    "nome": "jader",
+    "senha": "4",
+    "apelido": "4",
+    "idade": "5"
+  },
+  "4@gmail.com": {
+    "email": "4@gmail.com",
+    "nome": "asd",
+    "senha": "4",
+    "apelido": "1",
+    "idade": "4"
+  }
+}
